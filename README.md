@@ -13,6 +13,7 @@ Two part project that leveraged newly acquired data-structure knowledge as well 
       * Adding to Head
       * Adding to Tail
       * Deleting an item
+ * Created using a Single Linked List Structure, with each node being the head of a new Doubly Linked List
       
 #### Part Two
 * Given a supplied "correct" program, and text based test case files, it would automatically grade another provided program

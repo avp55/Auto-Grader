@@ -2,8 +2,7 @@
 
 # Auto-Grader
 
-Two part project that leveraged newly acquired data-structure knowledge as well as a more thorough introduction to the C language
-
+Two part project that leveraged newly acquired data-structure knowledge as well as a more thorough introduction to the C language (CS5002, Spring 2018)
 #### Part One
 * Ability to create an unlimited amount of Doubly-Linked Lists
   * Program ingested a text file containing how many Doubly Linked Lists were to be created
